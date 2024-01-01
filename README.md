@@ -16,3 +16,4 @@ usage:
 ```
 
 Supported concurrent processing of read or write requests from clients, even for the same file, enhancing efficiency.
+Supported protocol extensions defined by RFC2348. [Block Size option]
