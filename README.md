@@ -15,4 +15,4 @@ usage:
 	./tftpd
 ```
 
-Supported concurrent processing of read requests from clients, even for the same file, enhancing efficiency.
+Supported concurrent processing of read or write requests from clients, even for the same file, enhancing efficiency.
